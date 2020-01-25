@@ -1,4 +1,4 @@
-# Prolog Tutorial
+# Prolog Meetings
 
 (C) 2020 by [Damir Cavar], ...
 
