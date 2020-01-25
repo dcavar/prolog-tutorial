@@ -2,7 +2,7 @@
 
 (C) 2020 by [Damir Cavar], ...
 
-This is a basic Prolog tutorial repo for the dicussion group at [Indiana University at Bloomington]. Feel free to use the code examples in a way compatible with the [Apache License Version 2.0] as specified in the accompanied LICENSE file.
+This is a basic Prolog language proficiensy improvement and tutorial repo for the dicussion group at [Indiana University at Bloomington]. Feel free to use the code examples in a way compatible with the [Apache License Version 2.0] as specified in the accompanied LICENSE file.
 
 
 ## Tutorials
