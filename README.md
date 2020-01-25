@@ -28,6 +28,19 @@ To use the [Jupyter] Notebooks you might have to install [Python] and [Jupyter],
 - [Calysto Prolog Jupyter kernel](https://github.com/Calysto/calysto_prolog)
 
 
+## Literature
+
+You will find this book on [IUCAT](https://iucat.iu.edu/) (or elsewhere):
+
+- Ivan Bratko (2011) [Prolog Programming for Artificial Intelligence](https://catalogue.pearsoned.ca/educator/product/Prolog-Programming-for-Artificial-Intelligence/9780321417466.page). Pearson Education Canada. (4th edition)
+- William F. Clocksin (2003) [Programming in Prolog: Using The ISO Standard](https://www.springer.com/us/book/9783540006787). Springer. (5th edition)
+- Max Bramer (2013) [Logic Programming with Prolog](https://www.springer.com/us/book/9781846282126). Springer. (2nd edition)
+
+For the Common Lisp implementation of Allegro Prolog:
+
+- Peter Norvig (1992) [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://www.elsevier.com/books/paradigms-of-artificial-intelligence-programming/norvig/978-0-08-057115-7). Elsevier. ([GitHub repo with code](https://github.com/norvig/paip-lisp))
+
+
 [Apache License Version 2.0]: https://www.apache.org/licenses/LICENSE-2.0 "Apache License Version 2.0"
 [SWI Prolog]: https://www.swi-prolog.org/ "SWI Prolog"
 [Python]: https://www.python.org/ "Python"
